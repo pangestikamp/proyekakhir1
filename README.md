@@ -33,13 +33,16 @@ pip install streamlit
 streamlit run dashboard.py
 ```
 ### Tampilan Dashboard
-![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/ac9e4024-28d3-4753-9929-08791cd6880c)
-![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/6d7b2595-41c4-4c96-86cf-8c311e257f93)
-![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/8486bf8a-c756-4da2-83ea-1040430b9016)
-![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/ddedcf36-3904-426d-83c2-727989462d06)
-![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/96dc232f-a600-4096-b356-a172176287ed)
-![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/7333bbec-175d-4909-816b-30b059961199)
-![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/ebe35cd4-d519-4cb6-a6c9-6474f1bf38b6)
+![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/5bd0e1cc-2680-4bba-87bf-b00f27c1d8e4)
+
+![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/b605a3e7-7427-4b18-93b8-e7e3989d4080)
+![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/11a92b9b-4143-4ea9-a488-ba60584b6813)
+![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/09db418e-65cd-4cbc-880f-4c9027dde182)
+![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/6a7cab34-1999-45eb-a464-c3f8bd7a66e5)
+![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/6a7cab34-1999-45eb-a464-c3f8bd7a66e5)
+![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/70c85f48-046f-4e65-9f04-5511523abb9c)
+![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/22583525-7f6b-4419-953e-a771435398bf)
+
 
 
 
