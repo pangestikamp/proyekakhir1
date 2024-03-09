@@ -18,22 +18,28 @@ Berisi data jumlah peminjam sepeda setiap hari dari tahun 2011 - 2012. Berikut b
 14. casual: count of casual users
 15. registered: count of registered users
 16. cnt: count of total rental bikes including both casual and registered
+
+
+## Library yang dibutuhkan
 ```
-### Library yang dibutuhkan
-1. Pandas
-2. Matplotlib
-3. Numpy
-4. Seaborn
-5. Streamlit
+pip install pandas
+pip install matplotlib
+pip install numpy
+pip install seaborn
+pip install streamlit
+```
 ## Run streamlit app
 ```
 streamlit run dashboard.py
 ```
 ### Tampilan Dashboard
-![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/ad423bb6-1732-4a4a-8761-262ac69cd738)
-![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/e782bc6e-8299-48e7-afd5-c666ac31ce48)
-![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/db5bb2d4-bf41-44dd-8262-36b71b94055c)
-![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/5099fa5d-ef44-4e53-b66d-1472f1e06dc5)
+![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/ac9e4024-28d3-4753-9929-08791cd6880c)
+![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/6d7b2595-41c4-4c96-86cf-8c311e257f93)
+![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/8486bf8a-c756-4da2-83ea-1040430b9016)
+![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/ddedcf36-3904-426d-83c2-727989462d06)
+![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/96dc232f-a600-4096-b356-a172176287ed)
+![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/7333bbec-175d-4909-816b-30b059961199)
+![image](https://github.com/pangestikamp/proyekakhir1/assets/162313682/ebe35cd4-d519-4cb6-a6c9-6474f1bf38b6)
 
 
 
